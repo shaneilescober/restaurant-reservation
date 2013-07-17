@@ -1,0 +1,10 @@
+#opentable_table td								{padding: 5px 5px 5px 5px}
+#loc_list										{background:white;height:350px;overflow:auto}
+#selected_loc_ok								{margin-right:10px}
+#selected_loc_ok, #selected_loc_cancel 			{margin-top:20px}
+
+.opentable_input_text, .opentable_input_select	{width: 300px; height:20px}
+.stateListWrapper								{float:left;width:90%}
+.radio_button									{float:left;width:10%}
+.state_name										{float:left;width:80%;text-align:left}
+.city_list ul									{margin:0px 0px 0px -30px;padding:0px}

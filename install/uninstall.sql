@@ -1,0 +1,1 @@
+DROP TABLE `opentable_settings`;
